@@ -1,0 +1,28 @@
+{
+    "release": {
+        "id": "acs2020_5yr",
+        "years": "2016-2020",
+        "name": "ACS 2020 5-year"
+    },
+    "tables": {
+        "B19052": {
+            "title": "Wage or Salary Income in the Past 12 Months for Households",
+            "universe": "Households",
+            "denominator_column_id": "B19052001",
+            "columns": {
+                "B19052001": {
+                    "name": "Total:",
+                    "indent": 0
+                },
+                "B19052002": {
+                    "name": "With wage or salary income",
+                    "indent": 1
+                },
+                "B19052003": {
+                    "name": "No wage or salary income",
+                    "indent": 1
+                }
+            }
+        }
+    }
+}
