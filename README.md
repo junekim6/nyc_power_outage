@@ -1,8 +1,6 @@
 # nyc_power_outage
-This project explores and analyzes the health impact of localized power outages in New York City.
-
+This project explores and analyzes the health impact of localized power outages in New York City. 
 "Empower" folder contains relevant data for the story.
-- 
 
 ## Data Source
 - For electric medical equipment data, the historical data from [emPOWER program](https://empowerprogram.hhs.gov/about-empowermap.html) was used. emPOWER is a program by the U.S. Department of Health and Human Services, where they track the number of Medicare beneficiaries how use electric medical equipment.
