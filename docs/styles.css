@@ -22,7 +22,7 @@ nav {
     margin: 0 10px;
   }
   
-  a {
+  a.nav {
     color: #fff;
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
@@ -107,7 +107,7 @@ p.kicker {
 }
 
 h1.headline {
-    font-size: 4rem;
+    font-size: 3.6rem;
     line-height: 1.1;
     margin-bottom: 0.25rem;
     margin-top: 1rem;
@@ -123,8 +123,8 @@ h2.subhead {
 }
 
 p.body-text {
-    font-size: 1.1rem;
-    line-height: 1.4;
+    font-size: 1.2rem;
+    line-height: 1.5;
     margin-top: 0;
     margin-bottom: 15px;
 }
@@ -154,7 +154,7 @@ h3.section-head {
 
 
 p.note {
-    font-size: 0.85rem;
+    font-size: 1.1rem;
 }
 
 /* chart styles */
@@ -201,10 +201,8 @@ p.chart-label {
     width: 100%;
     padding-right: 15px;
     min-width: calc(25% - 15px);
-
+    align-items: center;
 }
-
-
 
 p.chart-source {
     font-size: 0.85rem;
