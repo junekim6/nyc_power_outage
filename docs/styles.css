@@ -107,7 +107,7 @@ p.kicker {
 }
 
 h1.headline {
-    font-size: 3.6rem;
+    font-size: 3rem;
     line-height: 1.1;
     margin-bottom: 0.25rem;
     margin-top: 1rem;
@@ -256,7 +256,7 @@ p.caption {
     }
 
     h1.headline {
-        font-size: 2.5rem;
+        font-size: 2.4rem;
     }
 
     h2.subhead {
@@ -266,6 +266,12 @@ p.caption {
     .byline {
         font-size: 1rem;
     }
+
+    p.body-text,
+    .note {
+        font-size: 1.1rem;
+    }
+
 }
 
 /* These are the styles for ai2html */
